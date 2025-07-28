@@ -1,0 +1,51 @@
+Items: {
+	RebootCardItem: {
+		DisplayName: Reboot Card
+		Tooltip: Bring this to a fueled up Reboot Van to bring back a fallen ally.
+	}
+
+	RebootVanItem: {
+		DisplayName: Reboot Van Item
+		Tooltip: ""
+	}
+
+	GolemMirror: {
+		DisplayName: Reboot Mirror
+		Tooltip: debug tool :D
+	}
+
+	BluGlo: {
+		Tooltip: Use this to refill the Reboot Van at any time
+		DisplayName: BluGlo
+	}
+}
+
+Projectiles.RebootStar.DisplayName: Reboot Star
+WorldGen.VanPassMessage: Building a Reboot Van
+
+Configs: {
+	RebootConfig: {
+		FakeNumPlayer: {
+			Tooltip: ""
+			Label: Fake Num Player
+		}
+
+		DisplayName: Reboot Config
+
+		FakeScaling: {
+			Label: Fake Scaling
+			Tooltip: ""
+		}
+
+		DebugMode: {
+			Label: Debug Mode
+			Tooltip: ""
+		}
+	}
+}
+
+Keybinds: {
+	GhostWarp.DisplayName: Ghost Warp
+	UnlockMediumcoreGhost.DisplayName: Ghost Unchain
+	LockMediumcoreGhost.DisplayName: Ghost Enchain
+}

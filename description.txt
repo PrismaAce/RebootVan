@@ -1,0 +1,13 @@
+(!) This mod doesn't work with any content mods.
+
+This adds a Reboot Van which will generate in your world, allowing you to bring back fallen allies from the dead.
+
+To refuel the van, you must defeat bosses for the first time.
+
+Note: When a player is dead, their character is temporarily set to Mediumcore until they're revived, this is intended behaviour.
+
+Hopefully everything works smoothly with the mod for the most part. The only issue is that reviving a ghost who is far away from the van will cause them to fall into the unloaded void and die again. So only revive someone who's near the van.
+
+-- Credits --
+The sprites in this mod for the Reboot Card and Reboot Van were made by COLTcolossal
+The styling of the mod, namesake, and sound effects are from Fortnite

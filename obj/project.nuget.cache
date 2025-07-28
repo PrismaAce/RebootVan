@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "swydz0XWFh2fFuroWRCSvgkbVhrm5OS4drXXM6LJocczwrp7GBKfZvudmPfwifEWn2NwPcw7DbHOJHzKqDZmCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\codem\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\RebootVan\\RebootVan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\codem\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
